@@ -1,5 +1,6 @@
 <?php
 $title = "1";
-$page_titte = "Hello World";
+$page_title = "Hello World";
+$contents = "<div>Hello</div>";
 require("layout.php");
 ?>
